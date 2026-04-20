@@ -1,4 +1,4 @@
-class Zen < Formula
+class ZenMode < Formula
   desc "A macOS CLI tool that blocks distracting domains"
   homepage "https://github.com/vaahoot/zen-mode"
   url "https://github.com/vaahoot/zen-mode/archive/refs/tags/0.1.0.tar.gz"
