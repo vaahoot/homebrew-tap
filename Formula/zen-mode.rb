@@ -1,8 +1,8 @@
 class ZenMode < Formula
   desc "A macOS CLI tool that blocks distracting domains"
   homepage "https://github.com/vaahoot/zen-mode"
-  url "https://github.com/vaahoot/zen-mode/releases/download/v0.1.2/zen-0.1.2.tar.gz"
-  sha256 "ccbfd82f3e5923aafd07baa8001256d7cda8caf63c36c20a04c7cef98f56c2bc"
+  url "https://github.com/vaahoot/zen-mode/archive/refs/tags/v0.1.3.tar.gz"
+  sha256 "808601fab405c1ded88777f7aa9d2cad53ca15308a73a806f936c4389ed0ff81"
   license "MIT"
 
   def install
